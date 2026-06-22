@@ -1,21 +1,16 @@
-# Rahaf Alenazi
+# Hi, I'm Rahaf Alenazi 👋
 
-Computer Science Graduate and Master's Student specializing in Artificial Intelligence, Virtual Reality, and Emerging Technologies.
+M.Sc. Computer Science Student at King Abdulaziz University with interests in Artificial Intelligence, Virtual Reality, Machine Learning, and Human-Computer Interaction.
 
 ## About Me
 
-I am passionate about developing innovative technology-driven solutions and conducting research that bridges emerging technologies with real-world applications. My interests focus on Artificial Intelligence, Virtual Reality, Human-Computer Interaction, and immersive learning environments.
+I am passionate about exploring emerging technologies and developing innovative solutions that bridge research and real-world applications. My work focuses on artificial intelligence, immersive technologies, and their use in education and training environments.
 
-## Education
+## Featured Project
 
-**Master of Science in Computer Science**
-King Abdulaziz University
-GPA: 4.88/5
+### MetaClinic VR
 
-**Bachelor of Science in Computer Science**
-Northern Border University
-First Class Honors
-GPA: 5.0/5
+A virtual reality-based medical training platform developed as part of my master's research. The project explores the integration of immersive technologies and artificial intelligence concepts to enhance learning experiences in healthcare education.
 
 ## Areas of Interest
 
@@ -24,25 +19,7 @@ GPA: 5.0/5
 * Virtual Reality
 * Human-Computer Interaction
 * Data Analysis
-* Emerging Technologies
 
-## Technical Skills
-
-* Python
-* MATLAB
-* Unity 3D
-* Artificial Intelligence
-* Machine Learning
-* Data Analysis
-* VR Development
-
-## Certifications
-
-* Machine Learning – Stanford University
-* AI Materials – KAIST
-* What is the Metaverse? – Meta
-* Big Data – IBM
-
-## Connect
+## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/rahaf-alenazi-2a7968214
