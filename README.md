@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rahaf Alenazi 👋
 
-<!--
-**RahafAlenazi/RahafAlenazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Computer Science Student at King Abdulaziz University.
 
-Here are some ideas to get you started:
+## Interests
+- Artificial Intelligence
+- Virtual Reality
+- Machine Learning
+- Human-Computer Interaction
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research
+Currently working on research related to Virtual Reality and Artificial Intelligence applications in medical education.
+
+## Skills
+- Python
+- MATLAB
+- Unity
+- Machine Learning
+- Data Analysis
+
+## Contact
+LinkedIn: ضعي رابط لينكدإن هنا
