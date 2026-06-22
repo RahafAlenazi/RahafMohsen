@@ -8,7 +8,7 @@ I am passionate about exploring emerging technologies and developing innovative 
 
 ## Featured Project
 
-### MetaClinic VR
+### MetaClinic VR (Master's Research)
 
 A virtual reality-based medical training platform developed as part of my master's research. The project explores the integration of immersive technologies and artificial intelligence concepts to enhance learning experiences in healthcare education.
 
