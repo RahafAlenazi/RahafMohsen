@@ -1,4 +1,4 @@
-# Hi, I'm Rahaf Alenazi 
+# Hi, I'm Rahaf Mohsen
 
 M.Sc. Computer Science Student at King Abdulaziz University with interests in Artificial Intelligence, Virtual Reality, Machine Learning, and Human-Computer Interaction.
 
